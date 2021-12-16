@@ -4,6 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+telebot = '*'
+sqlite3 = '*'
+decouple = '*'
+loguru = '*'
+datetime = '*'
+requests = '*'
+json = '*'
+re = '*'
+forex_python.converter = '*'
 
 [dev-packages]
 
